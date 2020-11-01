@@ -1,0 +1,56 @@
+Question  Number, Correct Option, Answer
+
+1> a, True
+
+2> a,  Central Limit Theorem
+
+3> b,  Modeling bounded count data
+
+4> b,  All of the mentioned
+
+5> c, poisson
+
+6> b, False
+
+7> c,Causal
+
+8> c, 1
+
+9> c,  Outliers cannot conform to the regression relationship
+
+
+Subjective Answer
+
+10>Answer:- Normal distribution, also known as the Gaussian distribution, is a probability distribution 
+           that is symmetric about the mean,showing that data near the mean are more frequent in 
+           occurrence than data far from the mean.
+
+11>Answer:- Handle missing data:
+          i>Listwise
+         ii>Pairwise deletion
+        iii>Mean substitution
+         iv>Regression inputation
+          v>Last observation crried forward
+         vi>Maximum likelihood
+
+       Imputation technique:
+      i>Time series problem
+     ii>General problem
+
+12>Answer:- A/B testing is a user experience research methodology. . A/B tests consist of a randomized 
+            experiment with two variants, A and B. It includes application of statistical hypothesis 
+            testing or "two-sample hypothesis testing" as used in the field of statistics.
+
+13>Answer:- Bad practice in general
+           -If just estimating means: mean imputationpreserves the observed data.
+           -Leads to an underestimate of the standard deviation.
+           -Distorts relationships between variables by "pulling" estimates of the correlation toward zero.
+
+14>Answer:-In statistics, linear regression is a linear approach to modeling the relationship between a
+           scalar response and one or more explanatory variables.The case of one explanatory variable is
+           called simple linear regression. For more than one explanatory variable, the process is called
+           multiple linear regression.
+
+15>Answer:-The two main branches of statistics are descriptive statistics and inferential statistics.
+           Both of these are employed in scientific analysis of data and both are equally important 
+           for the student of statistics.
